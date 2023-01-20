@@ -10,7 +10,7 @@ const Pricing = () => {
               
             </div>
             <div className="flex  justify-center flex-wrap gap-10 ">
-            <div className="flex flex-col space-y-6 rounded shadow  bg-gray-900">
+            <div className="flex flex-col space-y-6 rounded shadow  bg-gray-900 hover:bg-gradient-to-t from-[#3801cf] to-[#df72e7ef] ">
                         <div className="space-y-2 text-center px-6 pt-6">
                             <h4 className="text-2xl font-nunito mb-10">Letty - Full Access</h4>
                             <span className="text-2xl font-nunito ">$100/yr</span>
@@ -48,10 +48,10 @@ const Pricing = () => {
                                 <span>Countless Use-Cases</span>
                             </li>
                         </ul>
-                        <button type="button" className="inline-block px-5 py-3 font-nunito tracking-wider text-center rounded bg-[#6E3FF2] text-[#FFFFFF]">BUY NOW</button>
+                        <button type="button" className="inline-block px-5 py-3 font-nunito tracking-wider text-center rounded bg-[#5d2de4] text-[#FFFFFF]">BUY NOW</button>
                     </div>
 
-                    <div className="flex flex-col  space-y-6 rounded shadow  bg-gray-900">
+                    <div className="flex flex-col  space-y-6 rounded shadow  bg-gray-900 hover:bg-gradient-to-t from-[#3801cf] to-[#df72e7ef] ">
                         <div className="space-y-2 text-center px-6 pt-6">
                             <h4 className="text-2xl font-nunito mb-10">Letty - Full Access</h4>
                             <span className="text-2xl font-nunito ">$100/yr</span>
@@ -89,7 +89,7 @@ const Pricing = () => {
                                 <span>Countless Use-Cases</span>
                             </li>
                         </ul>
-                        <button type="button" className="inline-block px-5 py-3 font-nunito tracking-wider text-center rounded bg-[#6E3FF2] text-[#FFFFFF]">BUY NOW</button>
+                        <button type="button" className="inline-block px-5 py-3 font-nunito tracking-wider text-center rounded bg-[#5d2de4] text-[#FFFFFF]">BUY NOW</button>
                     </div>
              
             </div>
