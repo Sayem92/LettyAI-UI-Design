@@ -40,7 +40,7 @@ const Navbar = () => {
 
                                 aria-label="TEXT 2 IMG"
                                 title="TEXT 2 IMG"
-                                className="font-medium tracking-wide text-white transition-colors duration-200 hover:text-teal-accent-400"
+                                className="font-medium tracking-wide text-gray-300 transition-colors duration-200 hover:text-teal-accent-400"
                             >
                                 TEXT 2 IMG
                             </p>
@@ -50,7 +50,7 @@ const Navbar = () => {
 
                                 aria-label="IMG ENHANCER"
                                 title="IMG ENHANCER"
-                                className="font-medium tracking-wide text-white transition-colors duration-200 hover:text-teal-accent-400"
+                                className="font-medium tracking-wide text-gray-300  transition-colors duration-200 hover:text-teal-accent-400"
                             >
                                 IMG ENHANCER
                             </p>
@@ -61,7 +61,7 @@ const Navbar = () => {
 
                                 aria-label="DASHBOARD"
                                 title="DASHBOARD"
-                                className="font-medium tracking-wide text-white transition-colors duration-200 hover:text-teal-accent-400"
+                                className="font-medium tracking-wide text-gray-300  transition-colors duration-200 hover:text-teal-accent-400"
                             >
                                 DASHBOARD
                             </p>
@@ -72,7 +72,7 @@ const Navbar = () => {
 
                                 aria-label="PROFILE"
                                 title="PROFILE"
-                                className="font-medium tracking-wide text-white transition-colors duration-200 hover:text-teal-accent-400"
+                                className="font-medium tracking-wide text-gray-300  transition-colors duration-200 hover:text-teal-accent-400"
                             >
                                 PROFILE
                             </p>
